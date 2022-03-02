@@ -1,1 +1,3 @@
 # DBMS_Project
+<p>Nowadays, COVID19 Testing And Record Management System is one of the most essential tools that are mostly used in Testing Lab; it is mostly used to manage COVID19 medical lab related activities.</p>
+<p>In this project we tried to develop a computerized and web based COVID19 Testing And Record management system. Our main intention is to allow this application to be used in most retailing COVID19 lab, where a small point of customization will be required to each COVID19 lab in the implementation period. This system is designed to overcome all challenges related to the management of diagnostic that were used to be handled locally and manually.</p>
